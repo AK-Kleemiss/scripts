@@ -1,0 +1,1 @@
+This is intended to be a list of various small scripts and programs to make everyday tasks easier. If you want to submit a script that you think might be helpful to others, feel free to do so, but please include a short description of your program.
